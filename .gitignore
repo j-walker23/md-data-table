@@ -6,6 +6,7 @@ app/app.css
 .temp
 
 # folders
+.idea/
 bower_components
 node_modules
 jspm_packages

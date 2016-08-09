@@ -1,5 +1,5 @@
 SystemJS.config({
   paths: {
-    "github:*": "/jspm_packages/github/*"
+    "github:": "/jspm_packages/github/"
   }
 });
